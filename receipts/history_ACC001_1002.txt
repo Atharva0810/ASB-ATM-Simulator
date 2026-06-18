@@ -1,0 +1,26 @@
+****************************************
+           STUDENT BANK ATM
+       123 University Street, Student City
+           (555) 123-4567
+****************************************
+Receipt #: R001002
+Date: 09/17/2025
+Time: 09:51:56
+----------------------------------------
+TRANSACTION HISTORY REPORT
+Account Number: ACC001
+----------------------------------------
+TRANSACTION HISTORY
+Account: ACC001
+Generated: 09/17/2025 09:51:50
+==================================================
+Total Transactions: 1
+
+[1001] 09/17/2025 09:51:26 | Balance Inquiry | Balance Inquiry
+==================================================
+----------------------------------------
+Thank you for using STUDENT BANK ATM!
+Keep this receipt for your records.
+For assistance call: (555) 123-4567
+****************************************
+
