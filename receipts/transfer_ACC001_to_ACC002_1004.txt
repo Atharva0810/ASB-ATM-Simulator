@@ -1,0 +1,23 @@
+****************************************
+           STUDENT BANK ATM
+       123 University Street, Student City
+           (555) 123-4567
+****************************************
+Receipt #: R001004
+Date: 10/29/2025
+Time: 00:06:24
+----------------------------------------
+TRANSACTION TYPE: MONEY TRANSFER
+From Account: ACC001
+To Account: ACC002
+Transfer Amount: ₹100.00
+Remaining Balance: ₹1480.00
+
+Transfer completed successfully.
+Beneficiary will receive funds immediately.
+----------------------------------------
+Thank you for using STUDENT BANK ATM!
+Keep this receipt for your records.
+For assistance call: (555) 123-4567
+****************************************
+

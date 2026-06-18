@@ -1,0 +1,21 @@
+****************************************
+           STUDENT BANK ATM
+       123 University Street, Student City
+           (555) 123-4567
+****************************************
+Receipt #: R001003
+Date: 10/29/2025
+Time: 00:05:57
+----------------------------------------
+TRANSACTION TYPE: DEPOSIT
+Account Number: ACC001
+Transaction Amount: ₹100.00
+New Balance: ₹1580.00
+
+Deposit has been credited to your account.
+----------------------------------------
+Thank you for using STUDENT BANK ATM!
+Keep this receipt for your records.
+For assistance call: (555) 123-4567
+****************************************
+
